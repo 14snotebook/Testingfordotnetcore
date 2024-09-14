@@ -6,6 +6,7 @@ namespace TestingDotnetcore
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Added new line");
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }

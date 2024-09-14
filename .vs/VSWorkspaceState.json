@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestingDotnetcore",
+    "\\TestingDotnetcore\\TestingDotnetcore"
   ],
-  "SelectedNode": "\\D:\\dotnetcore",
+  "SelectedNode": "\\TestingDotnetcore\\TestingDotnetcore\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

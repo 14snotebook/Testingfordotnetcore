@@ -1,0 +1,14 @@
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\bin\Debug\netcoreapp3.1\TestingDotnetcore.exe
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\bin\Debug\netcoreapp3.1\TestingDotnetcore.deps.json
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\bin\Debug\netcoreapp3.1\TestingDotnetcore.runtimeconfig.json
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\bin\Debug\netcoreapp3.1\TestingDotnetcore.runtimeconfig.dev.json
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\bin\Debug\netcoreapp3.1\TestingDotnetcore.dll
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\bin\Debug\netcoreapp3.1\TestingDotnetcore.pdb
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\obj\Debug\netcoreapp3.1\TestingDotnetcore.csproj.AssemblyReference.cache
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\obj\Debug\netcoreapp3.1\TestingDotnetcore.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\obj\Debug\netcoreapp3.1\TestingDotnetcore.AssemblyInfoInputs.cache
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\obj\Debug\netcoreapp3.1\TestingDotnetcore.AssemblyInfo.cs
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\obj\Debug\netcoreapp3.1\TestingDotnetcore.csproj.CoreCompileInputs.cache
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\obj\Debug\netcoreapp3.1\TestingDotnetcore.dll
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\obj\Debug\netcoreapp3.1\TestingDotnetcore.pdb
+D:\dotnetcore\TestingDotnetcore\TestingDotnetcore\obj\Debug\netcoreapp3.1\TestingDotnetcore.genruntimeconfig.cache

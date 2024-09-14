@@ -1,0 +1,2 @@
+# Testingfordotnetcore
+Testing
